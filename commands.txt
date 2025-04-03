@@ -1,0 +1,7 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y python3-pip libatlas-base-dev
+
+pip3 install tflite-runtime opencv-python numpy - install lib
+sudo raspi-config - run camera
+
+sudo reboot
